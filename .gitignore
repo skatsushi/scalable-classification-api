@@ -1,0 +1,4 @@
+# Ignore the .aws directory
+.aws/
+
+
